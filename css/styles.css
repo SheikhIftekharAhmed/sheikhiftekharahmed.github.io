@@ -10862,6 +10862,10 @@ p.lead {
   font-weight: 400;
 }
 
+.subheading a {
+  text-transform: lowercase !important;
+}
+
 .subheading {
   font-family: Georgia, "Times New Roman", serif; 
   text-transform: uppercase;
